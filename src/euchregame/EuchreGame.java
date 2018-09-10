@@ -16,6 +16,9 @@ public class EuchreGame {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        int testing1 = 0;
+        System.out.print("test: "+testing1);
     }
     
 }
