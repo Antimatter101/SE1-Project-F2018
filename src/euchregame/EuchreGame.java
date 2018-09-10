@@ -19,6 +19,7 @@ public class EuchreGame {
         
         int testing1 = 0;
         System.out.print("test: "+testing1);
+        
     }
     
 }
